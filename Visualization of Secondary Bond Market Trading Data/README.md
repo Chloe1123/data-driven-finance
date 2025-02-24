@@ -35,7 +35,7 @@ An interactive **Excel dashboard** was created to visualize key bond market tren
 - **Industry Trading Volume Overview (Radar Chart)**  
   *Compares trading volumes across different industries, offering a broader view of sector-wide activity in the bond market.*  
 
-📌 **Download Excel File**: [`Trading_Data_Analysis.xlsm`](./Trading_Data_Analysis.xlsm)  
+📌 **Download Excel File**: [`Trading_Data_Analysis.xlsx`](./Trading_Data_Analysis.xlsx)  
    *Dashboard Screenshots Available in Repository*   
 
 ---
