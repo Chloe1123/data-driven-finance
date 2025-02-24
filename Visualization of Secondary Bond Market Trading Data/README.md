@@ -13,7 +13,7 @@ The dataset simulates **real-world fixed income trading activity**, capturing ke
 - **Minute-level trading volumes and price fluctuations**  
 - **Industry and bond type segmentation**  
 
-📌 **Python Script**: [`generate_bond_data.py`](./generate_bond_data.py)  
+📌 **Python Script**: [`generate_bond_data.py`](./generate_bond_data.ipynb)  
 📌 **Dataset Sample**: [`Minute_Level_Trade_Data.csv`](./Minute_Level_Trade_Data.csv)  
 📌 **Full Data Description**: See [`data_description.md`](./data_description.md)  
 
