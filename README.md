@@ -38,7 +38,7 @@ This project explores **gold price trends and macroeconomic influences**, employ
 - Applies **Bollinger Bands, RSI, MACD, and GARCH modeling** to analyze volatility and detect price momentum.  
 - Provides **visualizations** of price movements, macroeconomic factors, and predictive analytics.  
 
-🔗 **View on GitHub**: [Gold Market Analysis](https://github.com/Chloe1123/data-driven-finance/tree/main/python_project/gold_market_analysis)  
+🔗 **View on GitHub**: [Gold Market Analysis](https://github.com/Chloe1123/data-driven-finance/tree/main/python_project/%20gold_market_analysis)  
 
 ### **2. Risk Analysis and Portfolio Optimization**  
 This project applies **quantitative risk models and optimization techniques** to construct efficient investment portfolios.  
